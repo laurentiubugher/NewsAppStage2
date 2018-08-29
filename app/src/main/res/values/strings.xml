@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">News app, Stage 2 </string>
+    <string name="news_title">News Title</string>
+    <string name="news_category">News Category</string>
+    <string name="author">author</string>
+    <string name="date">date</string>
+    <string name="sorry_there_are_no_news_to_display">Sorry, unexpected problem with downloading data from Guardian\'s server. Close the app and try it later.</string>
+    <string name="no_connection">There is no internet connection. Please turn on your wifi or mobile data and restart the app.</string>
+    <string name="no_browser">In your cell phone there is no internet browser. If you want to read news, please download and install some.</string>
+
+    <string name="settings_title">News category setting</string>
+    <string name="settings_menu_item">Settings</string>
+
+    <string name="key_word1">Your key word</string>
+    <string name="key_word2">Find news by key word</string>
+
+    <string name="pick_category1">News category</string>
+    <string name="pick_category2">Choose from news category</string>
+
+    <string name="tagForUsUk">"-news"</string>
+    <string name="tagUS">"us"</string>
+    <string name="tagUK">"uk"</string>
+
+    //news category for array list
+    <string name="all">All news</string>
+    <string name="world">World news</string>
+    <string name="us">US news</string>
+    <string name="uk">UK news</string>
+    <string name="business">Business</string>
+    <string name="science">Science</string>
+    <string name="society">Society</string>
+    <string name="sport">Sport</string>
+    <string name="art">Art and design</string>
+    <string name="technology">Technology</string>
+
+
+</resources>
